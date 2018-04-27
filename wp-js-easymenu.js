@@ -20,7 +20,7 @@ function toggleEasyMenuStatus() {
 $(function () {
   
   
-  $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/EcoWebs/wp-js-easymenu/wp-js-easymenu.css">');
+  $('head').append('<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/EcoWebs/wp-js-easymenu/1bd74406/wp-js-easymenu.css">');
 
 
   var t_menu = $('#wp-admin-bar-root-default');
