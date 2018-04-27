@@ -1,0 +1,15 @@
+#menu-appearance,
+#menu-plugins,
+#menu-users,
+#menu-tools,
+#menu-settings {
+  display: none !important;
+}
+
+.easy_menu_off #menu-appearance,
+.easy_menu_off #menu-plugins,
+.easy_menu_off #menu-users,
+.easy_menu_off #menu-tools,
+.easy_menu_off #menu-settings {
+  display: inherit !important;
+}
